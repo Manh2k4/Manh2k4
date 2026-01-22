@@ -1,30 +1,43 @@
-Hi there, I'm Lê Đình Mạnh (ManhDev) 👋
-🚀 Fullstack Web Developer | FPT University Excellence Graduate
-Chào bạn! Mình là Lê Đình Mạnh, tốt nghiệp Cử nhân loại Giỏi tại Đại học FPT. Với nền tảng kỹ thuật vững chắc và tư duy giải quyết vấn đề linh hoạt, mình chuyên xây dựng các hệ thống Web toàn diện từ giao diện bán hàng bắt mắt đến các hệ thống quản trị (Admin Panel) phức tạp, giúp doanh nghiệp vận hành trơn tru và hiệu quả.
+# Hi there, I'm Le Dinh Manh (ManhDev) 👋 
 
-🛠️ Giải pháp công nghệ mình cung cấp:
-🌐 E-commerce & Web Sales: Xây dựng cửa hàng trực tuyến chuyên nghiệp, tối ưu trải nghiệm người dùng (UX) và chuẩn SEO để bùng nổ doanh số.
+### 🚀 Fullstack Web Developer | Honors Graduate from FPT 🎓
 
-⚙️ Custom Admin Panel & CMS: Thiết kế các trang quản trị đặc thù: quản lý kho bãi, theo dõi đơn hàng, quản lý khách hàng (CRM) với độ bảo mật cao.
+Chào bạn! Mình là **Lê Đình Mạnh**, một lập trình viên Fullstack với tư duy tối ưu và nền tảng kỹ thuật vững chắc. Tốt nghiệp **loại Giỏi** chuyên ngành CNTT tại **FPT**, mình không chỉ nắm vững lý thuyết mà còn có kinh nghiệm thực chiến dày dặn trong việc xây dựng các hệ thống web phức tạp từ con số 0.
 
-📄 High-Converting Landing Page: Thiết kế trang đích tối ưu tốc độ và tỷ lệ chuyển đổi cho các chiến dịch Marketing.
+---
 
-🔧 System Optimization: Nâng cấp, bảo trì và tối ưu hóa hiệu suất cho các hệ thống web hiện có.
+### 🌟 Tại sao nên hợp tác cùng mình?
+Với phương châm "Giải pháp tối ưu - Vận hành bền bỉ", mình tự tin đáp ứng mọi yêu cầu từ giao diện người dùng đến hệ thống quản trị chuyên sâu:
 
-💻 Tech Stack & Skills:
-<p align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxt,js,html,css,tailwind,mysql,git" /> </p>
+- 🛒 **E-commerce Specialist:** Xây dựng website bán hàng chuyên nghiệp, tích hợp thanh toán, quản lý giỏ hàng và chuẩn SEO.
+- ⚙️ **Robust Management Systems:** Thiết kế các trang quản trị (Admin Panel), hệ thống quản lý kho, nhân sự, khách hàng (CRM) với logic xử lý dữ liệu chặt chẽ.
+- ⚡ **High Performance:** Tối ưu tốc độ tải trang, trải nghiệm người dùng (UX) và bảo mật hệ thống.
+- 🛠️ **Custom Solutions:** Phát triển tính năng theo yêu cầu riêng biệt, không giới hạn độ khó của dự án.
 
-Backend: PHP (Laravel) - Chuyên sâu xây dựng Logic & Database.
+---
 
-Frontend: Vue.js, Nuxt.js, Tailwind CSS - Tạo giao diện hiện đại, mượt mà.
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxt,js,html,css,tailwind,mysql,git,docker,postman" />
+</p>
 
-Database: MySQL, tối ưu hóa truy vấn dữ liệu lớn.
+- **Backend:** PHP (Laravel)
+- **Frontend:** Vue.js, Nuxt.js, Tailwind CSS, JavaScript
+- **Database & Tools:** MySQL, Git, Docker
 
-📫 Kết nối và Hợp tác:
-Mình luôn sẵn sàng cho các dự án mới và những thử thách thú vị. Hãy liên hệ với mình để cùng hiện thực hóa ý tưởng của bạn:
+---
 
-📩 Email: manh49719@gmail.com
+### 📫 Kết nối với mình để bắt đầu dự án:
+Bạn đang tìm kiếm một cộng tác viên đáng tin cậy để hiện thực hóa ý tưởng? Hãy liên hệ với mình ngay:
 
-📞 Zalo: 0862428356
+- 📧 **Email:** [manh49719@gmail.com](mailto:manh49719@gmail.com)
+- 📞 **Zalo:** [0862428356](https://zalo.me/0862428356)
+- 🌐 **Facebook:** [ManhDev](https://www.facebook.com/Manhdev2k4)
 
-🌐 Facebook: Lê Đình Mạnh
+---
+
+### 📊 Hoạt động trên GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manh2k4&show_icons=true&theme=tokyonight)
+
+---
+*Cảm ơn bạn đã ghé thăm profile của mình! Chúc bạn một ngày tốt lành!* 🚀
