@@ -1,7 +1,7 @@
 # Hi there, I'm Manh (ManhDev) 👋 
 ### 🚀 Fullstack Web Developer | Freelance Creator
 
-Dào bạn! Mình là Mạnh, một lập trình viên Fullstack chuyên nghiệp. Mình tập trung vào việc tạo ra các giải pháp website hiệu quả, thẩm mỹ và tối ưu cho khách hàng.
+Chào bạn! Mình là Mạnh, một lập trình viên Fullstack chuyên nghiệp. Mình tập trung vào việc tạo ra các giải pháp website hiệu quả, thẩm mỹ và tối ưu cho khách hàng.
 
 ---
 
@@ -15,14 +15,14 @@ Dào bạn! Mình là Mạnh, một lập trình viên Fullstack chuyên nghiệ
 
 ### 💻 Tech Stack của mình:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxt,js,html,css,tailwind,mysql,git" />
 </p>
 
 ---
 
 ### 📫 Liên hệ với mình để đặt hàng làm web:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](LINK_FACEBOOK_CUA_BAN)
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](SỐ_ĐIỆN_THOẠI_ZALO_CỦA_BAN)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Manhdev2k4)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](0862428356)
 
 ---
 
