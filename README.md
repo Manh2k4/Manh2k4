@@ -19,8 +19,25 @@ Lập trình viên Fullstack tốt nghiệp **loại Giỏi tại FPT**. Chuyên
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxt,js,html,css,tailwind,mysql,git,docker" />
+  <strong>Backend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,mysql" />
 </p>
+
+<p align="left">
+  <strong>Frontend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,angular,tailwind" />
+</p>
+
+<p align="left">
+  <strong>Tools & DevOps:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,postman" />
+</p>
+
+<p align="left">
+  <strong>Other:</strong><br/>
+  🎓 IELTS 6.5
+</p>
+
 
 ---
 
