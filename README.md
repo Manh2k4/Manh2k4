@@ -20,17 +20,12 @@ Lập trình viên Fullstack tốt nghiệp **loại Giỏi tại FPT**. Chuyên
 ### 💻 Tech Stack
 <p align="left">
   <strong>Backend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,express,spring,mysql,postgres,mongodb,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,express,spring,mysql,postgres,mongodb,redis,firebase,flutter,reactnative" />
 </p>
 
 <p align="left">
   <strong>Frontend:</strong><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,nextjs,angular,tailwind,bootstrap,sass,figma" />
-</p>
-
-<p align="left">
-  <strong>Mobile & Cross-platform:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
 </p>
 
 <p align="left">
