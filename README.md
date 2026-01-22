@@ -31,5 +31,4 @@ Lập trình viên Fullstack tốt nghiệp **loại Giỏi tại Đại học F
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manh2k4&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manh2k4&layout=compact&theme=tokyonight)
