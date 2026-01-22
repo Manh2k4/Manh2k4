@@ -20,23 +20,34 @@ Lập trình viên Fullstack tốt nghiệp **loại Giỏi tại FPT**. Chuyên
 ### 💻 Tech Stack
 <p align="left">
   <strong>Backend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,express,spring,mysql,postgres,mongodb,redis,firebase" />
 </p>
 
 <p align="left">
   <strong>Frontend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,angular,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,nextjs,angular,tailwind,bootstrap,sass,figma" />
+</p>
+
+<p align="left">
+  <strong>Mobile & Cross-platform:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
 </p>
 
 <p align="left">
   <strong>Tools & DevOps:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,linux,vercel,netlify,vscode,postman" />
 </p>
 
 <p align="left">
-  <strong>Other:</strong><br/>
+  <strong>Testing & Others:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,selenium" />
+</p>
+
+<p align="left">
+  <strong>Language:</strong><br/>
   🎓 IELTS 6.5
 </p>
+
 
 
 ---
