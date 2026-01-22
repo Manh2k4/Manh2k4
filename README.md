@@ -1,7 +1,7 @@
 # Lê Đình Mạnh (ManhDev) 👋
 ### Fullstack Web Developer | FPT University Honors Graduate 🎓
 
-Lập trình viên Fullstack tốt nghiệp **loại Giỏi tại Đại học FPT**. Chuyên triển khai các giải pháp Web từ giao diện người dùng đến hệ thống quản trị chuyên sâu, đảm bảo hiệu năng cao và khả năng mở rộng linh hoạt.
+Lập trình viên Fullstack tốt nghiệp **loại Giỏi tại FPT**. Chuyên triển khai các giải pháp Web từ giao diện người dùng đến hệ thống quản trị chuyên sâu, đảm bảo hiệu năng cao và khả năng mở rộng linh hoạt.
 
 ---
 
